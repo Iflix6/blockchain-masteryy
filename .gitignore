@@ -1,0 +1,11 @@
+# Rust build output
+**/target/
+
+# Foundry build output and local dependencies
+**/out/
+**/cache/
+**/broadcast/
+**/lib/
+
+# JavaScript dependencies
+**/node_modules/
